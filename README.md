@@ -8,4 +8,4 @@ Churn Classification Using Logistic Regression (Supervised Learning)
 <img src="imgs/4.jpg" width="1000"/><br><br>
 <img src="imgs/5.png" width="1000"/><br><br>
 <img src="imgs/6.png" width="1000"/><br><br>
-<img src="imgs/7.jpeg" width="500"/><br><br>
+<img src="imgs/7.jpeg" width="1000"/><br><br>
